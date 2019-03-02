@@ -598,14 +598,13 @@ X D 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# fdmbox_pcb-cache_+3.3V
+# fdmbox_pcb_tiny-rescue_+3.3V-fdmbox_pcb-cache
 #
-DEF fdmbox_pcb-cache_+3.3V #PWR 0 0 Y Y 1 F P
+DEF fdmbox_pcb_tiny-rescue_+3.3V-fdmbox_pcb-cache #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "fdmbox_pcb-cache_+3.3V" 0 140 50 H V C CNN
+F1 "fdmbox_pcb_tiny-rescue_+3.3V-fdmbox_pcb-cache" 0 140 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-ALIAS +3.3V
 DRAW
 P 2 0 1 0 -30 50 0 100 N
 P 2 0 1 0 0 0 0 100 N
@@ -614,11 +613,11 @@ X +3V3 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# fdmbox_pcb-cache_Switch_SW_DIP_x01
+# fdmbox_pcb_tiny-rescue_Switch_SW_DIP_x01-fdmbox_pcb-cache
 #
-DEF fdmbox_pcb-cache_Switch_SW_DIP_x01 SW 0 0 Y N 1 F N
+DEF fdmbox_pcb_tiny-rescue_Switch_SW_DIP_x01-fdmbox_pcb-cache SW 0 0 Y N 1 F N
 F0 "SW" 0 150 50 H V C CNN
-F1 "fdmbox_pcb-cache_Switch_SW_DIP_x01" 0 -150 50 H V C CNN
+F1 "fdmbox_pcb_tiny-rescue_Switch_SW_DIP_x01-fdmbox_pcb-cache" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -634,11 +633,11 @@ X ~ 2 300 0 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# fdmbox_pcb-cache_fdmbox_pcb-rescue_PCA9531-Driver_LED
+# fdmbox_pcb_tiny-rescue_fdmbox_pcb-rescue_PCA9531-Driver_LED-fdmbox_pcb-cache
 #
-DEF fdmbox_pcb-cache_fdmbox_pcb-rescue_PCA9531-Driver_LED U 0 40 Y Y 1 F N
+DEF fdmbox_pcb_tiny-rescue_fdmbox_pcb-rescue_PCA9531-Driver_LED-fdmbox_pcb-cache U 0 40 Y Y 1 F N
 F0 "U" 0 500 50 H V C CNN
-F1 "fdmbox_pcb-cache_fdmbox_pcb-rescue_PCA9531-Driver_LED" 150 -450 50 H V C CNN
+F1 "fdmbox_pcb_tiny-rescue_fdmbox_pcb-rescue_PCA9531-Driver_LED-fdmbox_pcb-cache" 150 -450 50 H V C CNN
 F2 "" 0 100 50 H I C CNN
 F3 "" 0 100 50 H I C CNN
 DRAW

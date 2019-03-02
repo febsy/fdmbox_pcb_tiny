@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name fdmbox_pcb_tiny-rescue)(type Legacy)(uri ${KIPRJMOD}/fdmbox_pcb_tiny-rescue.lib)(options "")(descr ""))
+)
